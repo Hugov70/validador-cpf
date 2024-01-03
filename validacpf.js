@@ -73,7 +73,7 @@ class Cpf {
 
 }
 
-const cpf1 = new Cpf('09762714512');
+const cpf1 = new Cpf('66463788007');
 const cpf2 = new Cpf('11111111111'); 
 
 console.log(cpf1, cpf2)
